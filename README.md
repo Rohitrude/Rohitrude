@@ -2,6 +2,10 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Developer;Python+%7C+Flask+Developer;Building+Cool+Projects+🚀;Always+Learning+New+Things" />
+  <img align="right" height="170" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=26&center=true&vCenter=true&width=600&lines=>>>+Initializing+Rohit+System...;>>>+Full+Stack+Developer;>>>+MERN+%2B+Flask+Expert;>>>+Building+Future+Projects;>>>+Access+Granted+✔" />
 </p>
 
 ---
@@ -28,8 +32,15 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,python,html,css,react,nodejs,express,mongodb,flask,git,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=js,python,html,css,react,nodejs,express,mongodb,git,vscode,postman" />
 
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Code-Python-000000?style=for-the-badge&logo=python&logoColor=green"/>
+  <img src="https://img.shields.io/badge/Frontend-React-000000?style=for-the-badge&logo=react&logoColor=cyan"/>
+  <img src="https://img.shields.io/badge/Backend-NodeJS-000000?style=for-the-badge&logo=node.js&logoColor=green"/>
+  <img src="https://img.shields.io/badge/Database-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=green"/>
 </p>
 
 ---
@@ -37,12 +48,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohitrude&show_icons=true&theme=radical&count_private=true&border_radius=10" height="170"/>
   <img src="https://streak-stats.demolab.com?user=Rohitrude&theme=radical&border_radius=10" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitrude&layout=compact&theme=radical&border_radius=10" height="150"/>
 </p>
 
 ---
@@ -58,15 +64,14 @@
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rohitrude/Rohitrude/output/snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Rohitrude/Rohitrude/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
-
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rohitrude&theme=radical&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Rohitrude&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -102,11 +107,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
----
-
-## 💡 Developer Mindset
-```diff
-+ Code
-+ Learn
-+ Build
-+ Repeat 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:000000&height=120&section=footer"/>
